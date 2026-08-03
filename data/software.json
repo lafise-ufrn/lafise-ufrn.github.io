@@ -16,5 +16,12 @@
         "description": "Software for behavioral analysis in a treadmill environment.",
         "status": "Development",
         "url": "https://github.com/lafise_ufrn/gap_rats"
+    },
+    {
+        "name": "SPARQ",
+        "description": "A code library for Signal Processing, Artifact Rejection and Quality-control.",
+        "status": "Development",
+        "url": "https://github.com/lafise_ufrn/SPARQ"
     }
+
 ]
