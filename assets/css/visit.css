@@ -1,0 +1,37 @@
+.visit-us address{
+
+    font-style: normal;
+
+    line-height: 1.7;
+
+    color: var(--text);
+
+    margin-bottom: 1rem;
+
+}
+
+.visit-buttons{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:.75rem;
+
+    margin-top:1rem;
+
+}
+
+.visit-buttons .btn{
+
+    border-radius:8px;
+
+}
+
+.visit-buttons .btn:hover{
+
+    transform:translateY(-2px);
+
+    transition:.2s;
+
+}

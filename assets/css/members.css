@@ -1,0 +1,257 @@
+/* ==========================================
+   Members Page
+========================================== */
+
+/* ---------- Sections ---------- */
+
+.member-section{
+
+    margin-bottom:4rem;
+
+}
+
+.member-section h2{
+
+    margin-bottom:2rem;
+
+    text-align:center;
+
+    font-weight:700;
+
+}
+
+
+/* ---------- Card ---------- */
+
+.member-card{
+
+    width:100%;
+
+    max-width:240px;
+
+    margin:auto;
+
+    height:370px;
+
+}
+
+.member-card:hover{
+
+    transform:translateY(-4px);
+
+}
+
+
+/* ---------- Image ---------- */
+
+.member-photo{
+
+    width:180px;
+
+    height:180px;
+
+    margin:1.5rem auto 1rem;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    border:4px solid white;
+
+    cursor:pointer;
+
+    transition:transform .25s ease;
+
+}
+
+.member-photo:hover{
+
+    transform:scale(1.05);
+
+}
+
+
+/* ---------- Card Body ---------- */
+
+.member-card .card-body{
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:flex-start;
+
+}
+
+
+/* ---------- Name ---------- */
+
+.member-card h5{
+
+    min-height:3rem;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    text-align:center;
+
+    margin-bottom:.5rem;
+
+}
+
+
+/* ---------- Role ---------- */
+
+.member-formation{
+
+    text-align:center;
+
+    color:#6c757d;
+
+    font-size:.95rem;
+
+    margin-bottom:.5rem;
+
+    min-height:2.5rem;
+
+}
+
+
+/* ==========================================
+   Expandable Content
+========================================== */
+
+.member-extra{
+
+    max-height:0;
+
+    overflow:hidden;
+
+    opacity:0;
+
+    visibility:hidden;
+
+    transition:
+        max-height .35s ease,
+        opacity .25s ease,
+        margin .35s ease;
+
+    margin-top:0;
+
+}
+
+.member-card.expanded{
+
+    transform:translateY(-4px);
+
+    box-shadow:0 12px 30px rgba(0,0,0,.15);
+
+}
+
+.member-card.expanded .member-extra{
+
+    max-height:400px;
+
+    opacity:1;
+
+    transform:translateY(0);
+
+    margin-top:1rem;
+
+}
+
+
+/* ---------- Titles ---------- */
+
+.member-extra h6{
+
+    margin-top:1rem;
+
+    margin-bottom:.3rem;
+
+    font-size:.9rem;
+
+    font-weight:700;
+
+    color:var(--primary);
+
+}
+
+
+/* ---------- Paragraph ---------- */
+
+.member-extra p{
+
+    margin-bottom:.75rem;
+
+    color:var(--text);
+
+}
+
+
+/* ---------- Research List ---------- */
+
+.member-extra ul{
+
+    margin:0;
+
+    padding-left:1.2rem;
+
+}
+
+.member-extra li{
+
+    margin-bottom:.3rem;
+
+}
+
+/* ---------- External Links ---------- */
+
+.member-links{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    gap:0.75rem;
+
+    margin-top:1rem;
+
+    flex-wrap:wrap;
+
+}
+
+.member-links .btn{
+
+    min-width:90px;
+
+}
+
+/* ==========================================
+   Responsive
+========================================== */
+
+@media (max-width:900px){
+
+    .members-grid{
+
+        grid-template-columns:repeat(2,240px);
+
+    }
+
+}
+
+@media (max-width:600px){
+
+    .members-grid{
+
+        grid-template-columns:240px;
+
+    }
+
+}

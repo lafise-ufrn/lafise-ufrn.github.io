@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Hindiael Aeraf Belchior",
+        "role": "pi",
+        "photo": "assets/img/members/hindiaelbelchior.jpg",
+        "formation": {
+            "bachelor": "Physical Education",
+            "masters": "Psychobiology",
+            "phd": "Psychobiology"
+        },
+
+        "research": [
+            "Exercise Physiology",
+            "Sleep Physiology",
+            "Electrophysiology",
+            "Learning and Memory"
+        ],
+        "orcid": "https://orcid.org/0000-0002-6898-3985",
+        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "status": "active"
+    },
+
+    {
+        "name": "Gustavo Maciel",
+        "role": "phd",
+        "photo": "assets/img/members/gustavomaciel.jpg",
+        "formation": {
+            "bachelor": "Analysis and Systems Development",
+            "masters": "Neuroengineering",
+            "phd": "Psychobiology"
+        },
+
+        "research": [
+            "Software Development",
+            "Machine Learning",
+            "Behavioral Analysis",
+            "Electrophysiology"
+        ],
+        "orcid": "https://orcid.org/0000-0002-6898-3985",
+        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "status": "active"
+    },
+
+        {
+        "name": "Maria Laudeires Gadelha",
+        "role": "phd",
+        "photo": "assets/img/members/laudeiresgadelha.jpg",
+        "formation": {
+            "bachelor": "Psychology",
+            "masters": "Neuroengineering",
+            "phd": "Psychobiology"
+        },
+
+        "research": [
+            "Stress",
+            "Behavioral Analysis",
+            "Depression models",
+            "Therapeutic interventions"
+        ],
+        "orcid": "https://orcid.org/0000-0002-6898-3985",
+        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "status": "active"
+    },
+
+        {
+        "name": "Isaac Diniz",
+        "role": "undergraduate",
+        "photo": "assets/img/members/isaacdiniz.jpg",
+        "formation": {
+            "bachelor": "Computer Engineering"
+        },
+
+        "research": [
+            "Software Development",
+            "Data Analysis",
+            "Electrophysiology",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "",
+        "status": "active"
+    },
+
+        {
+        "name": "Alan Fortunato",
+        "role": "phd",
+        "photo": "assets/img/members/alanfortunato.jpg",
+        "formation": {
+            "bachelor": "Biomedical",
+            "masters": "Pyscobiology",
+            "phd": "Pyscobiology"
+        },
+        "research": [
+            "Exercise Physiology",
+            "Electrophysiology",
+            "Experimental science",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "",
+        "status": "Inactive"
+    },
+
+        {
+        "name": "Raíssa Breit",
+        "role": "undergraduate",
+        "photo": "assets/img/members/raissabreit.jpg",
+        "formation": {
+            "bachelor": "Computer Engineering"
+        },
+
+        "research": [
+            "Software Development",
+            "Data Analysis",
+            "Electrophysiology",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "",
+        "status": "Inactive"
+    },
+
+        {
+        "name": "Izabela Paiva",
+        "role": "masters",
+        "photo": "assets/img/members/izabelapaiva.jpg",
+        "formation": {
+            "bachelor": "Computer Engineering",
+            "masters": "Software Engineering"
+        },
+        "research": [
+            "Software Development",
+            "Data Analysis",
+            "Electrophysiology",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "",
+        "status": "Inactive"
+    }
+]

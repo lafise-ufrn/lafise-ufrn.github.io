@@ -1,0 +1,158 @@
+html{
+    font-size:100%;
+}
+
+body{
+
+    font-family:var(--font-body);
+
+    font-size:1.125rem;
+
+    color:var(--text);
+
+    background-color:var(--background);
+
+    position:relative;
+
+}
+
+p{
+
+    line-height:1.5;
+
+    margin:1.875rem 0;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    font-family:var(--font-heading);
+
+    font-weight:800;
+
+    line-height:1.1;
+
+}
+
+h1{font-size:2.25rem;}
+
+h2{font-size:1.875rem;}
+
+h3{font-size:1.5rem;}
+
+h4{font-size:1.125rem;}
+
+a{
+
+    color:var(--link);
+
+}
+
+a:hover{
+
+    color:var(--hover);
+
+}
+
+blockquote{
+
+    color:var(--text-light);
+
+    font-style:italic;
+
+}
+
+blockquote p:first-child{
+
+    margin-top:0;
+
+}
+
+hr.small{
+
+    max-width:6.25rem;
+
+    margin:1rem auto;
+
+    border-width:.25rem;
+
+    border-radius:.1875rem;
+
+    border-color:inherit;
+
+}
+
+:target::before{
+
+    content:"";
+
+    display:block;
+
+    height:var(--navbar-height);
+
+    margin-top:calc(-1 * var(--navbar-height));
+
+}
+
+main{
+
+    width:100%;
+
+}
+
+#content{
+
+    max-width:1100px;
+
+    margin:0 auto;
+
+    padding:3rem 2rem 5rem;
+
+}
+
+@media (min-width:768px){
+
+    .main-content{
+
+        padding-top:8rem;
+
+    }
+
+}
+
+.hideme{
+
+    display:none;
+
+    pointer-events:none;
+
+}
+
+::selection{
+
+    color:white;
+
+    background:var(--hover);
+
+}
+
+::-moz-selection{
+
+    color:white;
+
+    background:var(--hover);
+
+}
+
+img{
+
+    max-width:100%;
+
+}
+
+img::selection,
+img::-moz-selection{
+
+    background:transparent;
+
+}

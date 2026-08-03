@@ -1,0 +1,33 @@
+[
+    {
+        "lab": "Exercise Physiology Laboratory",
+        "institution": "UFRN",
+        "country": "Brazil",
+        "city": "Natal",
+        "lat": -5.8395,
+        "lng": -35.2010,
+
+        "researchers": [
+            "Hindiael Belchior",
+            "Gustavo Maciel"
+        ],
+
+        "website":"https://..."
+    },
+
+    {
+        "lab":"Sleep Research Laboratory",
+        "institution":"University of Oxford",
+        "country":"United Kingdom",
+        "city":"Oxford",
+        "lat":51.7548,
+        "lng":-1.2544,
+
+        "researchers":[
+            "John Smith",
+            "Alice Johnson"
+        ],
+
+        "website":"https://..."
+    }
+]
