@@ -36,8 +36,8 @@
             "Behavioral Analysis",
             "Electrophysiology"
         ],
-        "orcid": "https://orcid.org/0000-0002-6898-3985",
-        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "orcid": "https://orcid.org/0009-0002-9690-1614",
+        "lattes": "https://lattes.cnpq.br/0926263583680093",
         "status": "active"
     },
 
@@ -57,8 +57,8 @@
             "Depression models",
             "Therapeutic interventions"
         ],
-        "orcid": "https://orcid.org/0000-0002-6898-3985",
-        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/0173118776713903",
         "status": "active"
     },
 
@@ -82,7 +82,7 @@
     },
 
         {
-        "name": "Alan Fortunato",
+        "name": "Alan Furtunato",
         "role": "phd",
         "photo": "assets/img/members/alanfortunato.jpg",
         "formation": {
@@ -97,7 +97,7 @@
             "Behavioral Analysis"
         ],
         "orcid": "",
-        "lattes": "",
+        "lattes": "http://lattes.cnpq.br/6156382699121472",
         "status": "Inactive"
     },
 
@@ -106,7 +106,7 @@
         "role": "undergraduate",
         "photo": "assets/img/members/raissabreit.jpg",
         "formation": {
-            "bachelor": "Computer Engineering"
+            "bachelor": "Science & Technology"
         },
 
         "research": [
@@ -116,7 +116,7 @@
             "Behavioral Analysis"
         ],
         "orcid": "",
-        "lattes": "",
+        "lattes": "http://lattes.cnpq.br/2910069480976511",
         "status": "Inactive"
     },
 
@@ -135,7 +135,82 @@
             "Behavioral Analysis"
         ],
         "orcid": "",
-        "lattes": "",
+        "lattes": "http://lattes.cnpq.br/2087840828035036",
         "status": "Inactive"
+    },
+
+    {
+        "name": "Dante von Zuben",
+        "role": "masters",
+        "photo": "assets/img/members/dantezuben.jpg",
+        "formation": {
+            "bachelor": "Biological Sciences",
+            "masters": "Physiology"
+        },
+        "research": [
+            "Software Development",
+            "Exercise Physiology",
+            "Electrophysiology",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/0864049994351668",
+        "status": "active"
+    },
+
+     {
+        "name": "Suélio Araújo",
+        "role": "masters",
+        "photo": "assets/img/members/suelioaraujo.jpeg",
+        "formation": {
+            "bachelor": "Psychology",
+            "masters": "Physiology"
+        },
+        "research": [
+            "Stress",
+            "Behavioral Analysis",
+            "Depression models",
+            "Therapeutic interventions"
+        ],
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/0327351945323698",
+        "status": "active"
+    },
+
+     {
+        "name": "Guilherme Oliveira",
+        "role": "undergraduate",
+        "photo": "assets/img/members/guilhermeoliveira.jpg",
+        "formation": {
+            "bachelor": "Physical Education" 
+        },
+        "research": [
+            "Exercise Physiology",
+            "Electrophysiology",
+            "Experimental science",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "https://lattes.cnpq.br/2941980552407637",
+        "status": "active"
+    },
+
+     {
+        "name": "Victória Fernandes",
+        "role": "masters",
+        "photo": "assets/img/members/victoriafernandes.jpg",
+        "formation": {
+            "bachelor": "Pharmacy",
+            "masters": "Physiology"
+        },
+        "research": [
+            "Exercise Physiology",
+            "Electrophysiology",
+            "Experimental science",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/6497793744017246",
+        "status": "active"
     }
 ]
