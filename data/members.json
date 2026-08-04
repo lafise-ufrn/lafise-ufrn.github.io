@@ -212,5 +212,23 @@
         "orcid": "",
         "lattes": "http://lattes.cnpq.br/6497793744017246",
         "status": "active"
+    },
+
+         {
+        "name": "Wellington Lima Junior",
+        "role": "undergraduate",
+        "photo": "assets/img/members/wellingtonjunior.jpg",
+        "formation": {
+            "bachelor": "Physical Education" 
+        },
+        "research": [
+            "Exercise Physiology",
+            "Electrophysiology",
+            "Experimental science",
+            "Behavioral Analysis"
+        ],
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/4414064192014082",
+        "status": "Inactive"
     }
 ]
