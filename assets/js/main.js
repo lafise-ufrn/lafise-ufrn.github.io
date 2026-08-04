@@ -3,6 +3,7 @@ import { loadMarkdown } from "./components/markdown.js";
 import { initializeVisit } from "./components/visit.js";
 import { initializeHeader } from "./components/header.js";
 import { initializeCollaborationMap } from "./components/collab_maps.js";
+import { initializePublications } from "./publications.js";
 
 import { loadMembers } from "./members.js";
 
@@ -26,4 +27,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     await loadMembers();
 
     initializeCollaborationMap();
+
+    initializePublications();
 });
