@@ -1,0 +1,82 @@
+/* ==========================================
+   Collaboration Map
+========================================== */
+
+#collaboration-map{
+
+    width:100%;
+    height:650px;
+
+    margin:4rem auto;
+
+    border-radius:12px;
+    overflow:hidden;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+}
+
+/* ==========================================
+   Popup
+========================================== */
+
+.leaflet-popup-content{
+
+    min-width:240px;
+
+    font-size:.95rem;
+    line-height:1.5;
+
+}
+
+.leaflet-popup-content h5{
+
+    margin:0 0 .35rem;
+
+    font-size:1rem;
+    font-weight:700;
+
+}
+
+.leaflet-popup-content strong{
+
+    font-weight:600;
+
+}
+
+.leaflet-popup-content hr{
+
+    margin:.75rem 0;
+
+    border:none;
+    border-top:1px solid rgba(255,255,255,.15);
+
+}
+
+.leaflet-popup-content ul{
+
+    margin:.5rem 0;
+    padding-left:1.2rem;
+
+}
+
+.leaflet-popup-content li{
+
+    margin-bottom:.35rem;
+
+}
+
+.leaflet-popup-content a{
+
+    color:var(--accent-color);
+
+    text-decoration:none;
+    font-weight:600;
+
+}
+
+.leaflet-popup-content a:hover{
+
+    text-decoration:underline;
+
+}

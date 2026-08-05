@@ -1,14 +1,242 @@
 [
     {
+        "title": "Brain networks differ according to levels of interference in spatiotemporal processing",
+        "authors": "Rochele Castelo‐Branco and Ana Paula de Castro de Araujo and Karen Cristina Pugliane and Luiz Eduardo Mateus Brandão and Ramón Hypolito Lima and Hindiael Belchior and Ywlliane da Silva Rodrigues da Meurer and Arthur Antunes Pereira‐Costa and Flávio Freitas Barbosa",
+        "journal": "Hippocampus",
         "year": 2025,
-        "title": "Exercise-induced modulation of sleep architecture in rodents",
-        "authors": [
-            "Hindiael Belchior",
-            "João Silva",
-            "Maria Souza"
-        ],
-        "journal": "Journal of Experimental Physiology",
-        "doi": "https://doi.org/...",
-        "pdf": "papers/2025-paper.pdf"
+        "abstract": "The ability to form different neural representations for similar inputs is a central process of episodic memory. Although the dorsal dentate gyrus and CA3 have been indicated as important in this phenomenon, the neuronal circuits underlying spatiotemporal memory processing with different levels of spatial similarity are still elusive. In this study, we measured the expression of the immediate early gene c‐Fos to evaluate brain areas activated when rats recalled the temporal order of object locations in a task, with either high or low levels of spatial interference. Animals showed spatiotemporal memory in both conditions once they spent more time exploring the older object locations relative to the more recent ones. We found no difference in the levels of c‐Fos expression between high and low spatial interference. However, the levels of c‐Fos expression in CA2 positively correlated with the discrimination index in the …",
+        "citations": 4,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.70011",
+        "doi": ""
+    },
+    {
+        "title": "HIPPOCAMPAL THETA OSCILLATIONS DURING CONTROLLED SPEED RUNS ON A TREADMILL",
+        "authors": "Alan Michel Bezerra Furtunato and Daniel Marques da Silva and Adriano Bretanha Lopes Tort and Bruno Lobão-Soares and Hindiael Belchior",
+        "journal": "bioRxiv",
+        "year": 2025,
+        "abstract": "Hippocampal theta (6–12 Hz) oscillations coordinate neural activity during spatial navigation and are strongly related to locomotion speed. However, recent research has yielded conflicting evidence on whether theta rhythms are primarily modulated by acceleration or instantaneous speed. Moreover, the role of movement transitions—at locomotion onset and offset—has often been overlooked, despite potentially involving distinct dynamics not explained by speed or acceleration alone. Previous studies have rarely controlled for locomotion timing and speed, limiting our ability to dissociate the contributions of speed, acceleration, and movement transitions. To address this, we used a computer-controlled treadmill to induce rat locomotion under three distinct conditions: (a) movement transitions, (b) steady running at constant speed, and (c) locomotion with continuous acceleration. This setup allowed precise spectral analysis of hippocampal theta oscillations across conditions. We found that treadmill-triggered movement transitions produced sustained increases in theta power and transient increases in theta frequency. Upon treadmill stop, theta power decreased slowly, whereas theta frequency dropped rapidly. Steady running elevated both theta power and frequency relative to rest. During constant-speed trials, both metrics increased with speed and remained stable over time. Notably, the acceleration rate itself had no effect on theta power or frequency. Instead, during accelerating trials, theta frequency increased progressively with instantaneous speed, underscoring speed as the primary modulator. In summary, our results show that movement …",
+        "citations": 0,
+        "url": "https://www.biorxiv.org/content/10.1101/2025.06.17.660140.abstract",
+        "doi": ""
+    },
+    {
+        "title": "The alpha1A antagonist tamsulosin impairs memory acquisition, consolidation and retrieval in a novel object recognition task in mice",
+        "authors": "Victor AD Holanda and Matheus C Oliveira and Carina I de Oliveira Torres and Clarissa de Almeida Moura and Hindiael Belchior and Edilson D da Silva Junior and Elaine C Gavioli",
+        "journal": "Behavioural brain research",
+        "year": 2024,
+        "abstract": "Tamsulosin is an α1-adrenoceptor antagonist used to treat benign prostatic hyperplasia. This drug exhibits high affinity for α1A- and α1D-adrenoceptor subtypes, which are also expressed in the brain. While dementia symptoms have been reported after administration of tamsulosin in humans, studies on its effects on the rodent brain are still rare. The present study investigated the effects of tamsulosin (and biperiden, an amnesic drug) on cognitive performance in the object recognition task (ORT). Tamsulosin (0.001–0.01 mg/kg) was orally administrated in mice at three distinct time points: pre-training, post-training and pre-test session. Tamsulosin 0.01 mg/kg impaired object recognition regardless of when it was injected, whereas at lower doses did not affect mouse performance in the ORT. Biperiden also impaired acquisition and consolidation of object recognition in mice. Furthermore, the effects of tamsulosin …",
+        "citations": 7,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0166432824001839",
+        "doi": ""
+    },
+    {
+        "title": "Ketamine Reduces Avoidance Responses During Re-Exposition to Aversive Stimulus: Comparison Between (S)-Isomer and Racemic Mixture",
+        "authors": "Clarissa A Moura and Anne N de Sousa-Silva and Ana Lívia Mesquita Soares and Carina I de Oliveira Torres and Hindiael Belchior and Edilson D da Silva Jr and Elaine C Gavioli",
+        "journal": "Brain Sciences",
+        "year": 2024,
+        "abstract": "Background/Objectives Recent studies have investigated the effects of ketamine on fear memory in animals. However, it is unclear if ketamine might affect avoidance memory and emotional behaviors concomitantly. In this study, we compared the effects of (R,S)- and (S)-ketamine in modulating avoidance responses, depression- and anxiety-related behaviors in stressed mice. Methods Mice were previously exposed to inescapable footshock stress, and 24 h later, they were trained in the active avoidance task. (R,S)-ketamine or (S)-isomer was administered 1 h prior to re-exposition to the active avoidance task. Three hours after drug administration, mice were tested in the tail suspension, followed by the open field test. Results Neither form of ketamine affected avoidance memory retrieval, while (S)-ketamine, and tangentially, (R,S) reduced avoidance responses during re-exposition to aversive stimulus. In the tail suspension test, (R,S)- and (S)-ketamine equally evoked antidepressant effects. In the open field test, the racemic mixture, but not (S)-ketamine, induced anxiolytic actions. Conclusions These findings reinforce the therapeutic potential of ketamine for the treatment of stress-related disorders, with (R,S)-ketamine being more effective in simultaneously inducing antidepressant and anxiolytic responses and reducing avoidance responses in stressed mice.",
+        "citations": 1,
+        "url": "https://www.mdpi.com/2076-3425/14/12/1291",
+        "doi": ""
+    },
+    {
+        "title": "Acute Treatment with the M-Channel (Kv7, KCNQ) Opener Retigabine Reduces the Long-Term Effects of Repetitive Blast Traumatic Brain Injuries",
+        "authors": "Fabio A Vigil and Hindiael Belchior and Vladislav Bugay and Isabella I Bazaldua and Aiola Stoja and Denise C Dantas and Sang H Chun and Austin Farmer and Eda Bozdemir and Deborah M Holstein and Jose E Cavazos and James D Lechleiter and Robert Brenner and Mark S Shapiro",
+        "journal": "Neurotherapeutics",
+        "year": 2023,
+        "abstract": "We investigated whether pharmacological increase of “M-type” (KCNQ, Kv7) K + channel currents by the M-channel opener, retigabine (RTG), acutely after repetitive traumatic brain injuries (rTBIs), prevents or reduces their long-term detrimental effects. rTBIs were studied using a blast shock air wave mouse model. Animals were monitored by video and electroencephalogram (EEG) records for nine months after the last injury to assess the occurrence of post-traumatic seizures (PTS), post-traumatic epilepsy (PTE), sleep–wake cycle architecture alterations, and the power of the EEG signals. We evaluated the development of long-term changes in the brain associated with various neurodegenerative diseases in mice by examining transactive response DNA-binding protein 43 (TDP-43) expression and nerve fiber damage ~ 2 years after the rTBIs. We observed acute RTG treatment to reduce the duration of PTS …",
+        "citations": 17,
+        "url": "https://link.springer.com/article/10.1007/s13311-023-01361-9",
+        "doi": ""
+    },
+    {
+        "title": "Hippocampal 4-Hz oscillations emerge during stationary running in a wheel and are resistant to medial septum inactivation",
+        "authors": "Ivan Alisson Cavalcante Nunes de Lima and Hindiael Belchior",
+        "journal": "PloS one",
+        "year": 2023,
+        "abstract": "Recent studies described 2–4 Hz oscillations in the hippocampus of rats performing stationary locomotion on treadmills and other apparatus. Since the 2–4 Hz rhythm shares common features with theta (5–12 Hz) oscillations—such as a positive amplitude-running speed relationship and modulation of spiking activity—many have questioned whether these rhythms are related or independently generated. Here, we analyzed local field potentials and spiking activity from the dorsal CA1 of rats executing a spatial alternation task and running for ~15 s in a wheel during the intertrial intervals both before and after muscimol injection into the medial septum. We observed remarkable 4-Hz oscillations during wheel runs, which presented amplitude positively correlated with running speed. Surprisingly, the amplitude of 4-Hz and theta oscillations were inversely related. Medial septum inactivation abolished hippocampal theta but preserved 4-Hz oscillations. It also affected the entrainment of pyramidal cells and interneurons by 4-Hz rhythmic activity. In all, these results dissociate the underlying mechanism of 4-Hz and theta oscillations in the rat hippocampus.",
+        "citations": 3,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284514",
+        "doi": ""
+    },
+    {
+        "title": "Theta and gamma oscillations in the rat hippocampus support the discrimination of object displacement in a recognition memory task",
+        "authors": "Lívia Neves and Bruno Lobão-Soares and Ana Paula de Castro Araujo and Alan Michel Bezerra Furtunato and Izabela Paiva and Nicholy Souza and Anne Kelly Morais and George Nascimento and Elaine Gavioli and Adriano Bretanha Lopes Tort and Flávio Freitas Barbosa and Hindiael Belchior",
+        "journal": "Frontiers in behavioral neuroscience",
+        "year": 2022,
+        "abstract": "Episodic memory depends on the recollection of spatial and temporal aspects of past experiences in which the hippocampus plays a critical role. Studies on hippocampal lesions in rodents have shown that dentate gyrus (DG) and CA3 are necessary to detect object displacement in memory tasks. However, the understanding of real-time oscillatory activity underlying memory discrimination of subtle and pronounced displacements remains elusive. Here, we chronically implanted microelectrode arrays in adult male Wistar rats to record network oscillations from DG, CA3, and CA1 of the dorsal hippocampus while animals executed an object recognition task of high and low spatial displacement tests (HD: 108 cm, and LD: 54 cm, respectively). Behavioral analysis showed that the animals discriminate between stationary and displaced objects in the HD but not LD conditions. To investigate the hypothesis that theta and gamma oscillations in different areas of the hippocampus support discrimination processes in a recognition memory task, we compared epochs of object exploration between HD and LD conditions as well as displaced and stationary objects. We observed that object exploration epochs were accompanied by strong rhythmic activity in the theta frequency (6–12 Hz) band in the three hippocampal areas. Comparison between test conditions revealed higher theta band power and higher theta-gamma phase-amplitude coupling in the DG during HD than LD conditions. Similarly, direct comparison between displaced and stationary objects within the HD test showed higher theta band power in CA3 during exploration of displaced objects …",
+        "citations": 20,
+        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2022.970083/full",
+        "doi": ""
+    },
+    {
+        "title": "Hippocampal delta oscillations entrain neuronal activity, modulate gamma amplitude and convey information about running speed on a treadmill",
+        "authors": "Alan MB Furtunato and Rafael Pedrosa and Bruno Lobão-Soares and Adriano BL Tort and Hindiael Belchior",
+        "journal": "bioRxiv",
+        "year": 2022,
+        "abstract": "Locomotion has long been associated with rhythmic oscillations in the rat hippocampus. Running speed and acceleration affect the spectral density at the theta (6-10 Hz) and gamma (30-150 Hz) bands and the rhythmic entrainment of neuronal activity. However, less is known about other oscillatory rhythms. Recent studies have shown that oscillatory activity in the delta (1-4 Hz) band also relates to locomotion in stationary conditions, such as running on a treadmill or in a running wheel. To further investigate the effects of stationary running on hippocampal oscillations, we recorded CA1 local field potentials and neuronal activity while rats ran at different speed protocols on a treadmill. We found a remarkable oscillatory activity at 2 Hz that was strongly modulated by running speed. Delta power and peak frequency were highest at the fastest running speed, both in constant and progressively increasing speed protocols. Delta and theta oscillations co-occurred and showed independent relationships in their instantaneous power and frequency. Moreover, the delta phase modulated the amplitude of low-gamma (20-50 Hz) oscillations and the spiking activity of putative pyramidal neurons in a speed-dependent manner. Finally, spectral components in the delta frequency range, but not theta, predicted running speed using a naive Bayes classifier. In summary, our study shows that locomotion-related delta oscillations convey information about stationary running speed and coordinate hippocampal rhythmic activity in a speed-dependent manner.Theta and gamma oscillations are hallmarks of rhythmic activity in the rat …",
+        "citations": 3,
+        "url": "https://www.biorxiv.org/content/10.1101/2022.01.24.477542.abstract",
+        "doi": ""
+    },
+    {
+        "title": "Rats recognize spatial and temporal attributes in a new object recognition memory task with multiple trials",
+        "authors": "Ana Paula de Castro Araujo and Jalles Dantas de Lucena and Davi Carvalho Drieskens and Lívia Rodrigues Neves and Karen Cristina Pugliane and Hindiael Aeraf Belchior and Rochele Castelo-Branco and Flávio Freitas Barbosa",
+        "journal": "Journal of Neuroscience Methods",
+        "year": 2021,
+        "abstract": "BackgroundEpisodic-like memory tasks based on the spontaneous exploration of objects are commonly applied in one-trial protocols. However, multiple-trial designs are known to reduce animal numbers and data variance, providing faster accumulation of data.New methodIn this study, we devised a new object recognition memory task for rats that carry out multiple trials per session. We developed three types of continual trial tasks: a longer protocol, a shorter protocol, and a protocol in which the experimental session was divided into two days.ResultsIn our design, rats expressed temporal and spatial memory, but not what-where-when content integration. We found that shorter protocols were more efficient to evaluate memory capabilities.Comparison with existing methodsTo the best of our knowledge, it is the first object recognition task with multiple trials that simultaneously assess the temporal and spatial aspects …",
+        "citations": 8,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0165027020303599",
+        "doi": ""
+    },
+    {
+        "title": "Specific increase of hippocampal delta oscillations across consecutive treadmill runs",
+        "authors": "Alan MB Furtunato and Bruno Lobão-Soares and Adriano Bretanha Lopes Tort and Hindiael Belchior",
+        "journal": "Frontiers in behavioral neuroscience",
+        "year": 2020,
+        "abstract": "Running speed affects theta (6–10 Hz) oscillations, the most prominent rhythm in the rat hippocampus. Many reports have found a strong positive correlation between locomotion speed and the amplitude and frequency of theta oscillations. However, less is known about how other rhythms such as delta (0.5–4 Hz) and gamma (25–100 Hz) are affected, and how consecutive runs impact oscillatory activity in hippocampal networks. Here, we investigated whether the successive execution of short-term runs modulates local field potentials (LFPs) in the rat hippocampus. To do this, we trained Long-Evans rats to perform voluntary 15-s runs at 30 cm/s on a treadmill placed on the central stem of an eight-shape maze, in which they subsequently performed a spatial alternation task. We bilaterally recorded CA1 LFPs while rats executed at least 35 runs on the treadmill-maze apparatus. Within running periods, we observed progressive increases in delta band power along with decreases in the power of the theta and gamma bands across runs. Concurrently, the inter-hemispheric phase coherence in the delta band significantly increased, while in the theta and gamma bands exhibited no changes. Delta power and inter-hemispheric coherence correlated better with the trial number than with the actual running speed. We observed no significant differences in running speed, head direction, nor in spatial occupancy across runs. Our results thus show that consecutive treadmill runs at the same speed positively modulates the power and coherence of delta oscillations in the rat hippocampus.",
+        "citations": 30,
+        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2020.00101/full",
+        "doi": ""
+    },
+    {
+        "title": "Hippocampal and cortical communication around micro-arousals in slow-wave sleep",
+        "authors": "Gustavo Zampier dos Santos Lima and Bruno Lobao-Soares and Gilberto Corso and Hindiael Belchior and Sergio Roberto Lopes and Thiago de Lima Prado and George Nascimento and Arthur Cavalcanti de França and John Fontenele-Araujo and Plamen Ch Ivanov",
+        "journal": "Scientific reports",
+        "year": 2019,
+        "abstract": "Sleep plays a crucial role in the regulation of body homeostasis and rhythmicity in mammals. Recently, a specific component of the sleep structure has been proposed as part of its homeostatic mechanism, named micro-arousal. Here, we studied the unique progression of the dynamic behavior of cortical and hippocampal local field potentials (LFPs) during slow-wave sleep-related to motor-bursts (micro-arousals) in mice. Our main results comprised: (i) an abrupt drop in hippocampal LFP amplitude preceding micro-arousals which persisted until the end of motor-bursts (we defined as t interval, around 4s) and a similar, but delayed amplitude reduction in cortical (S1/M1) LFP activity occurring at micro-arousal onset; (ii) two abrupt frequency jumps in hippocampal LFP activity: from Theta (6–12 Hz) to Delta (2–4 Hz), also t seconds before the micro-arousal onset, and followed by another frequency jump from Delta to …",
+        "citations": 67,
+        "url": "https://www.nature.com/articles/s41598-019-42100-5",
+        "doi": ""
+    },
+    {
+        "title": "On information metrics for spatial coding",
+        "authors": "Bryan C Souza and Rodrigo Pavão and Hindiael Belchior and Adriano BL Tort",
+        "journal": "Neuroscience",
+        "year": 2018,
+        "abstract": "The hippocampal formation is involved in navigation, and its neuronal activity exhibits a variety of spatial correlates (e.g., place cells, grid cells). The quantification of the information encoded by spikes has been standard procedure to identify which cells have spatial correlates. For place cells, most of the established metrics derive from Shannon’s mutual information (Shannon, 1948), and convey information rate in bits/s or bits/spike (Skaggs et al., 1993, 1996). Despite their widespread use, the performance of these metrics in relation to the original mutual information metric has never been investigated. In this work, using simulated and real data, we find that the current information metrics correlate less with the accuracy of spatial decoding than the original mutual information metric. We also find that the top informative cells may differ among metrics, and show a surrogate-based normalization that yields comparable …",
+        "citations": 61,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0306452218301088",
+        "doi": ""
+    },
+    {
+        "title": "Reactivation of time cell sequences in the hippocampus",
+        "authors": "Hindiael A Belchior and Rodrigo Pavão and Alan MB Furtunato and Howard Eichenbaum and Adriano BL Tort",
+        "journal": "BioRxiv",
+        "year": 2018,
+        "abstract": "The temporal order of an experience is a fundamental property of episodic memories, yet the mechanism for the consolidation of temporal sequences in long-term memory is still unknown. A potential mechanism for memory consolidation depends on the reactivation of neuronal sequences in the hippocampus. Despite abundant evidence of sequence reactivation in the formation of spatial memory, the reactivation of hippocampal neuronal sequences carrying non-spatial information has been much less explored. In this work, we recorded the activity of time cell sequences while rats performed multiple 15-s treadmill runnings during the intertrial intervals of a spatial alternation memory task. We observed forward and reverse reactivations of time cell sequences often occurring during sharp-wave ripple events following reward consumption. Surprisingly, the reactivation events specifically engaged cells coding temporal information. The reactivation of time cell sequences may thus reflect the organization of temporal order required for episodic memory formation.",
+        "citations": 3,
+        "url": "https://www.biorxiv.org/content/10.1101/389874.abstract",
+        "doi": ""
+    },
+    {
+        "title": "Undersampled critical branching processes on small-world and random networks fail to reproduce the statistics of spike avalanches",
+        "authors": "Tiago L Ribeiro and Sidarta Ribeiro and Hindiael Belchior and Fábio Caixeta and Mauro Copelli",
+        "journal": "PloS one",
+        "year": 2014,
+        "abstract": "The power-law size distributions obtained experimentally for neuronal avalanches are an important evidence of criticality in the brain. This evidence is supported by the fact that a critical branching process exhibits the same exponent. Models at criticality have been employed to mimic avalanche propagation and explain the statistics observed experimentally. However, a crucial aspect of neuronal recordings has been almost completely neglected in the models: undersampling. While in a typical multielectrode array hundreds of neurons are recorded, in the same area of neuronal tissue tens of thousands of neurons can be found. Here we investigate the consequences of undersampling in models with three different topologies (two-dimensional, small-world and random network) and three different dynamical regimes (subcritical, critical and supercritical). We found that undersampling modifies avalanche size distributions, extinguishing the power laws observed in critical systems. Distributions from subcritical systems are also modified, but the shape of the undersampled distributions is more similar to that of a fully sampled system. Undersampled supercritical systems can recover the general characteristics of the fully sampled version, provided that enough neurons are measured. Undersampling in two-dimensional and small-world networks leads to similar effects, while the random network is insensitive to sampling density due to the lack of a well-defined neighborhood. We conjecture that neuronal avalanches recorded from local field potentials avoid undersampling effects due to the nature of this signal, but the same does not hold for spike …",
+        "citations": 80,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094992",
+        "doi": ""
+    },
+    {
+        "title": "Increase in hippocampal theta oscillations during spatial decision making",
+        "authors": "Hindiael Belchior and Vítor Lopes‐dos‐Santos and Adriano BL Tort and Sidarta Ribeiro",
+        "journal": "Hippocampus",
+        "year": 2014,
+        "abstract": "The processing of spatial and mnemonic information is believed to depend on hippocampal theta oscillations (5–12 Hz). However, in rats both the power and the frequency of the theta rhythm are modulated by locomotor activity, which is a major confounding factor when estimating its cognitive correlates. Previous studies have suggested that hippocampal theta oscillations support decision‐making processes. In this study, we investigated to what extent spatial decision making modulates hippocampal theta oscillations when controlling for variations in locomotion speed. We recorded local field potentials from the CA1 region of rats while animals had to choose one arm to enter for reward (goal) in a four‐arm radial maze. We observed prominent theta oscillations during the decision‐making period of the task, which occurred in the center of the maze before animals deliberately ran through an arm toward goal …",
+        "citations": 79,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22260",
+        "doi": ""
+    },
+    {
+        "title": "New insights into the role of respiratory inputs in hippocampal oscillations",
+        "authors": "André LV Lockmann and Hindiael Belchior",
+        "journal": "The Journal of Neuroscience",
+        "year": 2014,
+        "abstract": "The mammalian hippocampus generates oscillatory patterns as a result of synchronized activity of its neuronal populations. Over the last several years, it has been suggested that such rhythmic activity could have a mechanistic role for neural computations, constituting a temporal framework for neuronal communication (Buzsá ki and Wang, 2012). Moreover, different hippocampal rhythms have specific behavioral correlates and have also been implicated in memory formation and retrieval (Buzsáki and Draguhn, 2004). Despite the growing interest in these oscillations, the mechanisms by which they are generated remain largely unknown. An important and yet unsolved question is to what extent hippocampal oscillations reflect pure endogenous network activity versus neuronal entrainment by afferent sensory inputs. Two studies recently published in The Journal of Neuroscience provide important new insights into …",
+        "citations": 8,
+        "url": "https://www.jneurosci.org/content/34/29/9473.short",
+        "doi": ""
+    },
+    {
+        "title": "On high-frequency field oscillations (> 100 Hz) and the spectral leakage of spiking activity",
+        "authors": "Robson Scheffer-Teixeira and Hindiael Belchior and Richardson N Leão and Sidarta Ribeiro and Adriano BL Tort",
+        "journal": "The Journal of Neuroscience",
+        "year": 2013,
+        "abstract": "Recent reports converge to the idea that high-frequency oscillations in local field potentials (LFPs) represent multiunit activity. In particular, the amplitude of LFP activity above 100 Hz—commonly referred to as “high-gamma” or “epsilon” band—was found to correlate with firing rate. However, other studies suggest the existence of true LFP oscillations at this frequency range that are different from the well established ripple oscillations. Using multisite recordings of the hippocampus of freely moving rats, we show here that high-frequency LFP oscillations can represent either the spectral leakage of spiking activity or a genuine rhythm, depending on recording location. Both spike-leaked, spurious activity and true fast oscillations couple to theta phase; however, the two phenomena can be clearly distinguished by other key features, such as preferred coupling phase and spectral signatures. Our results argue against the …",
+        "citations": 157,
+        "url": "https://www.jneurosci.org/content/33/4/1535.short",
+        "doi": ""
+    },
+    {
+        "title": "Theta phase modulates multiple layer-specific oscillations in the CA1 region",
+        "authors": "Robson Scheffer-Teixeira and Hindiael Belchior and Fabio V Caixeta and Bryan C Souza and Sidarta Ribeiro and Adriano BL Tort",
+        "journal": "Cerebral cortex",
+        "year": 2012,
+        "abstract": "It was recently proposed that fast gamma oscillations (60–150 Hz) convey spatial information from the medial entorhinal cortex (EC) to the CA1 region of the hippocampus. However, here we describe 2 functionally distinct oscillations within this frequency range, both coupled to the theta rhythm during active exploration and rapid eye movement sleep: an oscillation with peak activity at ∼80 Hz and a faster oscillation centered at ∼140 Hz. The 2 oscillations are differentially modulated by the phase of theta depending on the CA1 layer; theta-80 Hz coupling is strongest at stratum lacunosum–moleculare, while theta-140 Hz coupling is strongest at stratum oriens–alveus. This laminar profile suggests that the ∼80 Hz oscillation originates from EC inputs to deeper CA1 layers, while the ∼140 Hz oscillation reflects CA1 activity in superficial layers. We further show that the ∼140 Hz oscillation differs from sharp wave …",
+        "citations": 175,
+        "url": "https://academic.oup.com/cercor/article-abstract/22/10/2404/290075",
+        "doi": ""
+    },
+    {
+        "title": "Cross-modal responses in the primary visual cortex encode complex objects and correlate with tactile discrimination",
+        "authors": "Nivaldo Vasconcelos and Janaina Pantoja and Hindiael Belchior and Fábio Viegas Caixeta and Jean Faber and Marco Aurelio M Freire and Vinícius Rosa Cota and Edson Anibal de Macedo and Diego A Laplagne and Herman Martins Gomes and Sidarta Ribeiro",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2011,
+        "abstract": "Cortical areas that directly receive sensory inputs from the thalamus were long thought to be exclusively dedicated to a single modality, originating separate labeled lines. In the past decade, however, several independent lines of research have demonstrated cross-modal responses in primary sensory areas. To investigate whether these responses represent behaviorally relevant information, we carried out neuronal recordings in the primary somatosensory cortex (S1) and primary visual cortex (V1) of rats as they performed whisker-based tasks in the dark. During the free exploration of novel objects, V1 and S1 responses carried comparable amounts of information about object identity. During execution of an aperture tactile discrimination task, tactile recruitment was slower and less robust in V1 than in S1. However, V1 tactile responses correlated significantly with performance across sessions. Altogether, the …",
+        "citations": 101,
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1102780108",
+        "doi": ""
+    },
+    {
+        "title": "Spike avalanches exhibit universal dynamics across the sleep-wake cycle",
+        "authors": "Tiago L Ribeiro and Mauro Copelli and Fábio Caixeta and Hindiael Belchior and Dante R Chialvo and Miguel AL Nicolelis and Sidarta Ribeiro",
+        "journal": "PloS one",
+        "year": 2010,
+        "abstract": "Scale-invariant neuronal avalanches have been observed in cell cultures and slices as well as anesthetized and awake brains, suggesting that the brain operates near criticality, i.e. within a narrow margin between avalanche propagation and extinction. In theory, criticality provides many desirable features for the behaving brain, optimizing computational capabilities, information transmission, sensitivity to sensory stimuli and size of memory repertoires. However, a thorough characterization of neuronal avalanches in freely-behaving (FB) animals is still missing, thus raising doubts about their relevance for brain function.To address this issue, we employed chronically implanted multielectrode arrays (MEA) to record avalanches of action potentials (spikes) from the cerebral cortex and hippocampus of 14 rats, as they spontaneously traversed the wake-sleep cycle, explored novel objects or were subjected to anesthesia (AN). We then modeled spike avalanches to evaluate the impact of sparse MEA sampling on their statistics. We found that the size distribution of spike avalanches are well fit by lognormal distributions in FB animals, and by truncated power laws in the AN group. FB data surrogation markedly decreases the tail of the distribution, i.e. spike shuffling destroys the largest avalanches. The FB data are also characterized by multiple key features compatible with criticality in the temporal domain, such as 1/f spectra and long-term correlations as measured by detrended fluctuation analysis. These signatures are very stable across waking, slow-wave sleep and rapid-eye-movement sleep, but …",
+        "citations": 280,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014129",
+        "doi": ""
+    },
+    {
+        "title": "Rat‟ s Hippocampal Field Potentials Clustering of Wake and Sleep Stages in Euclidean Space",
+        "authors": "Vıtor Lopes Dos Santos and BS Costa and HÁ Belchior and NAD Dória",
+        "journal": "Engineering in Medicine and Biology Society",
+        "year": 2010,
+        "abstract": "This paper presents a new methodology of automatic clustering of sleep and wake stages of a freely behaving rat based on Continuous Wavelet Transform (CWT). The automatic separation of those stages is very useful for experiments related to learning and memory consolidation since recent scientific evidence indicates that sleep is strongly involved with offline reprocessing of acquired information during waking. Our approach transforms hippocampal Local Field Potentials (LFP) in data vectors that describe the energy distribution pattern of the signal on scaled Morlet wavelets projections. Results indicate that the mathematical analysis used in this work can sensibly describe brain signal patterns that correlate to states of behaviour and that our method can be used for a wider range of applications in neuroscience research.",
+        "citations": 1,
+        "url": "https://www.researchgate.net/profile/Hindiael-Belchior/publication/49628479_Rats_Hippocampal_Field_Potentials_Feature_Extraction_of_Wake_and_Sleep_Stages_in_Euclidean_Space/links/54e67cef0cf277664ff5c673/Rats-Hippocampal-Field-Potentials-Feature-Extraction-of-Wake-and-Sleep-Stages-in-Euclidean-Space.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Neurofisiologia hipocampal durante sessões de sono intercaladas por exploração espacial: Reverberação do passado ou predição do futuro?",
+        "authors": "Hindiael Aeraf Belchior",
+        "journal": "",
+        "year": 2009,
+        "abstract": "Neurônios hipocampais exibem robusta seletividade para localização do animal no espaço. Assim, a atividade desses neurônios representa um mapa cognitivo do espaço durante a navegação e também durante o planejamento ou retrospectiva de navegação.",
+        "citations": 0,
+        "url": "https://repositorio.ufrn.br/bitstreams/2fa9566e-8ab5-48d9-990b-466d92ac55df/download",
+        "doi": ""
+    },
+    {
+        "title": "Selective increase of angiotensin (1–7) and its receptor in hearts of spontaneously hypertensive rats subjected to physical training",
+        "authors": "Ary Gomes Filho and Anderson J Ferreira and Sérgio Henrique S Santos and Sílvia RS Neves and Elizabeth R Silva Camargos and Lenice K Becker and Hindiael A Belchior and Marco Fabricio Dias-Peixoto and Sérgio VB Pinheiro and Robson AS Santos",
+        "journal": "Experimental Physiology",
+        "year": 2008,
+        "abstract": "In the present study we investigated the effects of physical training on plasma and cardiac angiotensin(1–7) [Ang(1–7)] levels. In addition, possible changes in expression of the Ang(1–7) Mas receptor in the heart were also evaluated. Normotensive Wistar rats and spontaneously hypertensive rats (SHR) were subjected to an 8 week period of 5% overload swimming training. Blood pressure was determined by a tail‐cuff system. Heart and left ventricle weights and cardiomyocyte diameter were analysed to evaluate cardiac hypertrophy. Radioimmunoassay was used to measure angiotensin levels. Expression of Mas was determined by semi‐quantitative polymerase chain reaction, immunofluorescence and Western blotting. Physical training induced cardiac hypertrophy in Wistar rats and SHR. A significant decrease of plasma angiotensin II (Ang II) levels in both strains was also observed. Strikingly, trained SHR, but …",
+        "citations": 95,
+        "url": "https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/expphysiol.2007.041293",
+        "doi": ""
+    },
+    {
+        "title": "Título: Neurofisiologia hipocampal durante sessões de sono intercaladas por exploração espacial: Reverberação do passado ou predição do futuro?",
+        "authors": "Hindiael Aeraf Belchior and Márcio Flávio Dutra Moraes and John Fontenele Araujo and Isaac Newton",
+        "journal": "",
+        "year": 0,
+        "abstract": "The ability to predict future rewards or threats is crucial for survival. Recent studies have",
+        "citations": 0,
+        "url": "https://repositorio.ufrn.br/bitstreams/2adf2c3e-fe16-4dd3-8c35-e6c165a4b55e/download",
+        "doi": ""
     }
 ]
