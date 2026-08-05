@@ -34,6 +34,95 @@ const memberSections = [
 
 ];
 
+const memberLayoutAnimations = new WeakMap();
+
+function getMemberLayoutElements(){
+
+    return [
+
+        ...document.querySelectorAll(`
+            body[data-page="members"] .member-section h2,
+            body[data-page="members"] .member-section > .row > *,
+            body[data-page="members"] #content > hr,
+            body[data-page="members"] #content > h2,
+            body[data-page="members"] #collaboration-map
+        `)
+
+    ];
+
+}
+
+function captureMemberLayout(){
+
+    return new Map(
+
+        getMemberLayoutElements().map(element => [
+
+            element,
+            element.getBoundingClientRect()
+
+        ])
+
+    );
+
+}
+
+function animateMemberLayout(previousLayout){
+
+    if(window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    getMemberLayoutElements().forEach(element => {
+
+        const previous = previousLayout.get(element);
+
+        if(!previous) return;
+
+        const current = element.getBoundingClientRect();
+        const deltaX = previous.left - current.left;
+        const deltaY = previous.top - current.top;
+
+        if(Math.abs(deltaX) < 0.5 && Math.abs(deltaY) < 0.5) return;
+
+        const runningAnimation = memberLayoutAnimations.get(element);
+
+        if(runningAnimation){
+
+            runningAnimation.cancel();
+            memberLayoutAnimations.delete(element);
+
+        }
+
+        const animation = element.animate(
+
+            [
+                { transform:`translate(${deltaX}px, ${deltaY}px)` },
+                { transform:"translate(0, 0)" }
+            ],
+
+            {
+                duration:520,
+                easing:"cubic-bezier(.22, 1, .36, 1)"
+            }
+
+        );
+
+        memberLayoutAnimations.set(element, animation);
+
+        animation.addEventListener("finish", () => {
+
+            if(memberLayoutAnimations.get(element) === animation){
+
+                memberLayoutAnimations.delete(element);
+                animation.cancel();
+
+            }
+
+        }, { once:true });
+
+    });
+
+}
+
 export async function loadMembers(){
 
     if(document.body.dataset.page !== "members") return;
@@ -240,9 +329,51 @@ function createCard(member){
     // Expand card
     // ===============================
 
-    card.querySelector(".member-photo").addEventListener("click", () => {
+    const photo = card.querySelector(".member-photo");
 
-        card.classList.toggle("expanded");
+    photo.tabIndex = 0;
+    photo.setAttribute("role", "button");
+    photo.setAttribute("aria-expanded", "false");
+    photo.setAttribute("aria-label", `View profile for ${member.name}`);
+
+    const toggleProfile = () => {
+
+        const previousLayout = captureMemberLayout();
+        const previousCardTop = card.getBoundingClientRect().top;
+        const minimumCardTop = Math.min(96, window.innerHeight * 0.12);
+        const maximumCardTop = Math.min(200, window.innerHeight * 0.25);
+        const preferredCardTop = Math.min(
+
+            Math.max(previousCardTop, minimumCardTop),
+            maximumCardTop
+
+        );
+
+        const expanded = card.classList.toggle("expanded");
+        const currentCardTop = card.getBoundingClientRect().top;
+        const scrollCompensation = currentCardTop - preferredCardTop;
+
+        if(Math.abs(scrollCompensation) >= 0.5){
+
+            window.scrollBy(0, scrollCompensation);
+
+        }
+
+        photo.setAttribute("aria-expanded", String(expanded));
+
+        requestAnimationFrame(() => animateMemberLayout(previousLayout));
+
+    };
+
+    photo.addEventListener("click", toggleProfile);
+
+    photo.addEventListener("keydown", event => {
+
+        if(event.key !== "Enter" && event.key !== " ") return;
+
+        event.preventDefault();
+
+        toggleProfile();
 
     });
 
