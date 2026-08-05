@@ -1,33 +1,103 @@
 [
     {
-        "lab": "Exercise Physiology Laboratory",
-        "institution": "UFRN",
-        "country": "Brazil",
+        "institution": "Federal University of Rio Grande do Norte",
+        "acronym": "UFRN",
         "city": "Natal",
+        "country": "Brazil",
         "lat": -5.8395,
         "lng": -35.2010,
 
-        "researchers": [
-            "Hindiael Belchior",
-            "Gustavo Maciel"
-        ],
-
-        "website":"https://..."
+        "labs": [
+            {
+                "name": "Exercise Physiology Laboratory",
+                "collaborator": "Dr. Hindiael Belchior",
+                "Website": "https://www.instituto-cerebro.ufrn.br/",
+                "is_home_lab": true
+            },
+            {
+                "name": "Computational Neurophysiology Laboratory",
+                "collaborator": "Prof. Adriano Tort",
+                "Website": "https://www.instituto-cerebro.ufrn.br/",
+                "is_home_lab": false
+            },
+            {
+                "name": "Sleep Physiology Laboratory",
+                "collaborator": "Prof. John Fontinele",
+                "Website": "",
+                "is_home_lab": false
+            }
+        ]
     },
 
     {
-        "lab":"Sleep Research Laboratory",
-        "institution":"University of Oxford",
-        "country":"United Kingdom",
-        "city":"Oxford",
-        "lat":51.7548,
-        "lng":-1.2544,
+        "institution": "Federal University of Paraíba",
+        "acronym": "UFPB",
+        "city": "João Pessoa",
+        "country": "Brazil",
+        "lat": -7.1399,
+        "lng": -34.8453,
 
-        "researchers":[
-            "John Smith",
-            "Alice Johnson"
-        ],
+        "labs": [
+            {
+                "name": "Exercise Physiology Laboratory",
+                "collaborator": "Prof. Flávio Barbosa",
+                "Website": "https://sites.google.com/academico.ufpb.br/lemcog",
+                "is_home_lab": false
+            }
+        ]
+    },
 
-        "website":"https://..."
+        {
+        "institution": "Boston University",
+        "acronym": "BU",
+        "city": "Boston",
+        "country": "USA",
+        "lat": 42.3398,
+        "lng": -71.0892,
+
+        "labs": [
+            {
+                "name": "Laboratory of Cognitive Neurobiology",
+                "collaborator": "Prof. Howard Eichenbaum",
+                "Website": "https://www.bu.edu/cogneuro/",
+                "is_home_lab": false
+            }
+        ]
+    },
+
+        {
+        "institution": "Radboud University",
+        "acronym": "RU",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8428,
+        "lng": 5.8720,
+
+        "labs": [
+            {
+                "name": "Radboud University",
+                "collaborator": "Prof. Bryan da Costa Souza",
+                "Website": "https://www.ru.nl/en/people/da-costa-souza-b",
+                "is_home_lab": false
+            }
+        ]
+    },
+
+        {
+        "institution": "Louisiana State University",
+        "acronym": "LSU",
+        "city": "Baton Rouge",
+        "country": "USA",
+        "lat": 30.4133,
+        "lng": -91.1800,
+
+        "labs": [
+            {
+                "name": "Louisiana State University",
+                "collaborator": "Fabio Antonio Borges Vigil",
+                "Website": "https://www.lsu.edu/vetmed/faculty/vigil.php",
+                "is_home_lab": false
+            }
+        ]
     }
 ]

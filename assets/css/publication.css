@@ -1,0 +1,71 @@
+/* ==========================================
+   Publications
+========================================== */
+
+#publications-container{
+
+    max-width:900px;
+
+    margin:0 auto;
+
+}
+
+.publication-year{
+
+    margin:3rem 0 1rem;
+
+    font-size:1.6rem;
+
+    font-weight:700;
+
+    color:var(--primary-color);
+
+}
+
+.publication{
+
+    margin-bottom:1.75rem;
+
+    padding-bottom:1.25rem;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+
+}
+
+.publication h3{
+
+    font-size:1.1rem;
+
+    font-weight:600;
+
+    margin-bottom:.4rem;
+
+    line-height:1.4;
+
+}
+
+.publication h3 a{
+
+    text-decoration:none;
+
+    color:inherit;
+
+}
+
+.publication h3 a:hover{
+
+    color:var(--primary-color);
+
+}
+
+.publication p{
+
+    margin:.2rem 0;
+
+    font-size:.95rem;
+
+    color:var(--text-secondary);
+
+    line-height:1.5;
+
+}

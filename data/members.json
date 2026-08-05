@@ -36,12 +36,12 @@
             "Behavioral Analysis",
             "Electrophysiology"
         ],
-        "orcid": "https://orcid.org/0000-0002-6898-3985",
-        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "orcid": "https://orcid.org/0009-0002-9690-1614",
+        "lattes": "https://lattes.cnpq.br/0926263583680093",
         "status": "active"
     },
 
-    {
+        {
         "name": "Maria Laudeires Gadelha",
         "role": "phd",
         "photo": "assets/img/members/laudeiresgadelha.jpg",
@@ -57,12 +57,12 @@
             "Depression models",
             "Therapeutic interventions"
         ],
-        "orcid": "https://orcid.org/0000-0002-6898-3985",
-        "lattes": "http://lattes.cnpq.br/2815729240392635",
+        "orcid": "",
+        "lattes": "http://lattes.cnpq.br/0173118776713903",
         "status": "active"
     },
 
-    {
+        {
         "name": "Isaac Diniz",
         "role": "undergraduate",
         "photo": "assets/img/members/isaacdiniz.jpg",
@@ -142,7 +142,7 @@
     {
         "name": "Dante von Zuben",
         "role": "masters",
-        "photo": "assets/img/members/dante.jpg",
+        "photo": "assets/img/members/dantezuben.jpg",
         "formation": {
             "bachelor": "Biological Sciences",
             "masters": "Physiology"
@@ -161,7 +161,7 @@
      {
         "name": "Suélio Araújo",
         "role": "masters",
-        "photo": "assets/img/members/suelio.jpg",
+        "photo": "assets/img/members/suelioaraujo.jpeg",
         "formation": {
             "bachelor": "Psychology",
             "masters": "Physiology"
@@ -180,7 +180,7 @@
      {
         "name": "Guilherme Oliveira",
         "role": "undergraduate",
-        "photo": "assets/img/members/guilherme.jpg",
+        "photo": "assets/img/members/guilhermeoliveira.jpg",
         "formation": {
             "bachelor": "Physical Education" 
         },
@@ -191,14 +191,14 @@
             "Behavioral Analysis"
         ],
         "orcid": "",
-        "lattes": "",
+        "lattes": "https://lattes.cnpq.br/2941980552407637",
         "status": "active"
     },
 
      {
         "name": "Victória Fernandes",
         "role": "masters",
-        "photo": "assets/img/members/vitoria.jpg",
+        "photo": "assets/img/members/victoriafernandes.jpg",
         "formation": {
             "bachelor": "Pharmacy",
             "masters": "Physiology"
@@ -213,11 +213,11 @@
         "lattes": "http://lattes.cnpq.br/6497793744017246",
         "status": "active"
     },
-    
-     {
+
+         {
         "name": "Wellington Lima Junior",
         "role": "undergraduate",
-        "photo": "assets/img/members/wellington.jpg",
+        "photo": "assets/img/members/wellingtonjunior.jpg",
         "formation": {
             "bachelor": "Physical Education" 
         },
