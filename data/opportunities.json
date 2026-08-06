@@ -1,0 +1,106 @@
+[
+    {
+        "id": "phd-psychobiology",
+        "category": "phd",
+        "type": "program",
+        "institution": "UFRN Graduate Program",
+        "title": "Psychobiology",
+        "description": "For projects centered on behavior and its biological bases, including learning and memory, sleep, exercise, and systems neuroscience.",
+        "areas": [
+            "Behavior",
+            "Neuroscience",
+            "Sleep"
+        ],
+        "button": "Visit the program",
+        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=367&lc=en_US",
+        "status": "active"
+    },
+
+    {
+        "id": "phd-physiology",
+        "category": "phd",
+        "type": "program",
+        "institution": "UFRN Graduate Program",
+        "title": "Physiological Sciences",
+        "description": "For projects focused on physiological mechanisms, including exercise physiology, neurophysiology, and integrated experimental approaches.",
+        "areas": [
+            "Physiology",
+            "Exercise",
+            "Neurophysiology"
+        ],
+        "button": "Visit the program",
+        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=32254&lc=en_US",
+        "status": "active"
+    },
+
+    {
+        "id": "masters-psychobiology",
+        "category": "masters",
+        "type": "compact",
+        "label": "Psychobiology",
+        "title": "Behavior and brain",
+        "description": "Develop a project linking exercise, behavior, cognition, sleep, or neural activity through the Graduate Program in Psychobiology.",
+        "button": "Program details",
+        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=367&lc=en_US",
+        "status": "active"
+    },
+
+    {
+        "id": "masters-physiology",
+        "category": "masters",
+        "type": "compact",
+        "label": "Physiological Sciences",
+        "title": "Mechanisms and function",
+        "description": "Investigate exercise and physiological function through the Multicenter Graduate Program in Physiological Sciences.",
+        "button": "Program details",
+        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=32254&lc=en_US",
+        "status": "active"
+    },
+
+    {
+        "id": "undergraduate-project",
+        "category": "undergraduate",
+        "type": "compact",
+        "label": "Scientific initiation",
+        "title": "Join an active project",
+        "description": "Learn how a research question becomes an experiment and gain supervised experience in literature review, laboratory routines, data organization, and analysis.",
+        "status": "active"
+    },
+
+    {
+        "id": "undergraduate-training",
+        "category": "undergraduate",
+        "type": "compact",
+        "label": "Research training",
+        "title": "Build practical skills",
+        "description": "Develop a foundation in reproducible workflows, scientific programming, behavioral methods, electrophysiology, and research communication according to project needs.",
+        "status": "active"
+    },
+
+    {
+        "id": "resource-treadmill",
+        "category": "lab-access",
+        "type": "resource",
+        "title": "Multimodal treadmill",
+        "description": "A research platform for controlled locomotion and behavioral paradigms, designed to support multimodal experimental protocols.",
+        "status": "active"
+    },
+
+    {
+        "id": "resource-electrophysiology",
+        "category": "lab-access",
+        "type": "resource",
+        "title": "Electrophysiology workflows",
+        "description": "Collaborative support for neural-signal experiments, from study planning and acquisition workflows to quality control and analysis.",
+        "status": "active"
+    },
+
+    {
+        "id": "resource-software",
+        "category": "lab-access",
+        "type": "resource",
+        "title": "Software and analysis",
+        "description": "Open and reproducible tools for behavioral data, electrophysiological signals, artifact rejection, visualization, and research workflows.",
+        "status": "active"
+    }
+]

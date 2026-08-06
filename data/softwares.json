@@ -1,0 +1,30 @@
+[
+  {
+    "title": "LafiseLab_Website",
+    "description": "The official website for the Lafise Laboratory showcasing research, publications, and software tools.",
+    "image": "assets/img/logos/lafise-work-in-progress.gif",
+    "status": "Development",
+    "url": ""
+  },
+  {
+    "title": "Cycle_by_Cycle",
+    "description": "Cycle-by-Cycle is a software tool designed to analyze and visualize data from exercise physiology experiments.",
+    "image": "assets/img/logos/lafise-work-in-progress.gif",
+    "status": "Development",
+    "url": ""
+  },
+  {
+    "title": "Gap_Rats",
+    "description": "Software for behavioral analysis in a treadmill environment.",
+    "image": "assets/img/logos/lafise-work-in-progress.gif",
+    "status": "Development",
+    "url": ""
+  },
+  {
+    "title": "SPARQ",
+    "description": "A code library for Signal Processing, Artifact Rejection and Quality-control.",
+    "image": "assets/img/logos/lafise-work-in-progress.gif",
+    "status": "Development",
+    "url": ""
+  }
+]

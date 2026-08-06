@@ -11,20 +11,31 @@ export async function initializeCollaborationMap() {
     const response = await fetch("data/collaborators.json");
     const institutions = await response.json();
 
-    // Cria o mapa
+    const bounds = L.latLngBounds(
+        [-90, -180],
+        [90, 180]
+    );
+
     const map = L.map("collaboration-map", {
         center: [15, 0],
         zoom: 2,
-        worldCopyJump: true
+        minZoom: 2,
+        maxZoom: 18,
+        worldCopyJump: false,
+        maxBounds: bounds,
+        maxBoundsViscosity: 1.0
     });
 
-    // Mapa escuro
     L.tileLayer(
         "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
         {
-            attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
+            attribution: "&copy; OpenStreetMap contributors &copy; CARTO",
+            noWrap: true
         }
     ).addTo(map);
+
+    map.fitBounds(bounds);
+    map.setMinZoom(map.getZoom());
 
     // Adiciona um marcador para cada instituição
     institutions.forEach(institution => {

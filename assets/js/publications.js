@@ -1,106 +1,69 @@
 export async function initializePublications() {
-
-    // Executa somente na página Publications
     if (document.body.dataset.page !== "publications") return;
 
-    // Container onde as publicações serão inseridas
     const container = document.getElementById("publications-container");
-
     if (!container) return;
 
-    // Carrega as publicações
     const response = await fetch("data/publications.json");
     let publications = await response.json();
 
     publications = publications.filter(pub => {
-
         return (
             pub.year &&
             pub.journal &&
             pub.journal.trim() !== ""
         );
-
     });
 
-    // Ordena por ano e, dentro do mesmo ano, por número de citações
+    // Ordena por ano e citações
     publications.sort((a, b) => {
-
-        if (a.year !== b.year)
-            return b.year - a.year;
-
+        if (a.year !== b.year) return b.year - a.year;
         return b.citations - a.citations;
-
     });
 
     // Agrupa por ano
     const grouped = publications.reduce((acc, pub) => {
-
-        if (!acc[pub.year])
-            acc[pub.year] = [];
-
+        if (!acc[pub.year]) acc[pub.year] = [];
         acc[pub.year].push(pub);
-
         return acc;
-
     }, {});
 
-    // Ordena explicitamente os anos em ordem decrescente
     const years = Object.keys(grouped)
         .map(Number)
         .sort((a, b) => b - a);
 
-    // Monta o HTML
     let html = "";
 
     years.forEach(year => {
-
         html += `<h2 class="publication-year">${year}</h2>`;
 
         grouped[year].forEach(paper => {
+            const authorsText = paper.authors ? paper.authors.replace(/ and /g, "; ") : "";
+            const citationsText = paper.citations > 0 ? ` &bull; ${paper.citations} citations` : "";
 
-            html += `
+            // Conteúdo interno do card
+            const cardContent = `
                 <article class="publication">
-
-                    <h3>
-
-                        ${
-                            paper.url
-                                ? `<a href="${paper.url}" target="_blank" rel="noopener noreferrer">
-                                       ${paper.title}
-                                   </a>`
-                                : paper.title
-                        }
-
-                    </h3>
-
+                    <h3>${paper.title}</h3>
+                    <p>${authorsText}</p>
                     <p>
-                        ${
-                            paper.authors
-                                ? paper.authors.replace(/ and /g, "; ")
-                                : ""
-                        }
+                        <em>${paper.journal}</em>${citationsText}
                     </p>
-
-                    <p>
-
-                        <em>${paper.journal}</em>
-
-                        ${
-                            paper.citations > 0
-                                ? ` &bull; ${paper.citations} citations`
-                                : ""
-                        }
-
-                    </p>
-
                 </article>
             `;
 
+            // Se tiver URL, envolve a moldura toda no link com a tag <a>
+            if (paper.url) {
+                html += `
+                    <a href="${paper.url}" target="_blank" rel="noopener noreferrer" class="publication-card-link">
+                        ${cardContent}
+                    </a>
+                `;
+            } else {
+                html += cardContent;
+            }
         });
-
     });
 
-    // Insere na página
     container.innerHTML = html;
-
 }

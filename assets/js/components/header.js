@@ -1,8 +1,8 @@
 const subtitles = {
-    home: "Department of Physiology • UFRN",
+    home: "UFRN",
     members: "Laboratory Members",
     publications: "Scientific Publications",
-    software: "Open Source Software",
+    softwares: "New Tools",
     opportunities: "Join Our Team"
 };
 

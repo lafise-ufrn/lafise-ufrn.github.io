@@ -21,9 +21,9 @@
                 "is_home_lab": false
             },
             {
-                "name": "Sleep Physiology Laboratory",
-                "collaborator": "Prof. John Fontinele",
-                "Website": "",
+                "name": "Laboratory of Behavioral Pharmacology",
+                "collaborator": "Prof. Elaine Cristina Gavioli",
+                "Website": "https://pnipe.mcti.gov.br/laboratory/268",
                 "is_home_lab": false
             }
         ]
@@ -39,7 +39,7 @@
 
         "labs": [
             {
-                "name": "Exercise Physiology Laboratory",
+                "name": "Laboratory of Studies in Memory and Cognition",
                 "collaborator": "Prof. Flávio Barbosa",
                 "Website": "https://sites.google.com/academico.ufpb.br/lemcog",
                 "is_home_lab": false

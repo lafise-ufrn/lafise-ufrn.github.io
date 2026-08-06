@@ -3,9 +3,11 @@ import { loadMarkdown } from "./components/markdown.js";
 import { initializeVisit } from "./components/visit.js";
 import { initializeHeader } from "./components/header.js";
 import { initializeCollaborationMap } from "./components/collab_maps.js";
-import { initializePublications } from "./publications.js";
 
 import { loadMembers } from "./members.js";
+import { initializePublications } from "./publications.js";
+import { loadAndRenderSoftwares } from "./softwares.js";
+import { initializeOpportunities } from "./opportunities.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
 
@@ -22,11 +24,15 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     await loadFragment("footer", "fragments/footer.html");
 
-    initializeVisit();
-
     await loadMembers();
+
+    await loadAndRenderSoftwares();
+
+    initializeVisit();
 
     initializeCollaborationMap();
 
     initializePublications();
+
+    initializeOpportunities();
 });
