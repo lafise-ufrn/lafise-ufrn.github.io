@@ -6,6 +6,8 @@ import { initializeCollaborationMap } from "./components/collab_maps.js";
 import { initializePublications } from "./publications.js";
 
 import { loadMembers } from "./members.js";
+import { loadSoftware } from "./software.js";
+import { loadOpportunities } from "./opportunities.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
 
@@ -25,6 +27,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     initializeVisit();
 
     await loadMembers();
+
+    await loadSoftware();
+
+    await loadOpportunities();
 
     initializeCollaborationMap();
 

@@ -1,0 +1,158 @@
+{
+    "intro": {
+        "eyebrow": "Join LaFiSE",
+        "lead": "Build research experience at the intersection of exercise physiology, neuroscience, behavior, electrophysiology, and open science.",
+        "description": "LaFiSE welcomes prospective students and collaborators who want to develop rigorous, reproducible research with animal models. Explore the routes below and contact us before applying so we can discuss research fit, supervision, and current availability."
+    },
+    "navigation": [
+        {
+            "target": "phd",
+            "label": "PhD"
+        },
+        {
+            "target": "masters",
+            "label": "Master's"
+        },
+        {
+            "target": "undergraduate",
+            "label": "Undergraduate Research"
+        },
+        {
+            "target": "lab-access",
+            "label": "Lab Access"
+        }
+    ],
+    "sections": [
+        {
+            "id": "phd",
+            "kicker": "Graduate training",
+            "title": "PhD pathways",
+            "description": "Doctoral researchers may connect with LaFiSE through either of two UFRN graduate programs, depending on the emphasis of the proposed project.",
+            "columns": 2,
+            "cards": [
+                {
+                    "variant": "program",
+                    "topline": [
+                        "UFRN graduate program",
+                        "PhD"
+                    ],
+                    "title": "Psychobiology",
+                    "description": "For projects centered on behavior and its biological bases, including learning and memory, sleep, exercise, and systems neuroscience.",
+                    "tags": [
+                        "Behavior",
+                        "Neuroscience",
+                        "Sleep"
+                    ],
+                    "link": {
+                        "label": "Visit the program",
+                        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=367&lc=en_US"
+                    }
+                },
+                {
+                    "variant": "program",
+                    "topline": [
+                        "UFRN graduate program",
+                        "PhD"
+                    ],
+                    "title": "Physiological Sciences",
+                    "description": "For projects focused on physiological mechanisms, including exercise physiology, neurophysiology, and integrated experimental approaches.",
+                    "tags": [
+                        "Physiology",
+                        "Exercise",
+                        "Neurophysiology"
+                    ],
+                    "link": {
+                        "label": "Visit the program",
+                        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=32254&lc=en_US"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "masters",
+            "kicker": "Graduate training",
+            "title": "Master's pathways",
+            "description": "Master's projects combine focused research questions with hands-on training in experimental design, data collection, analysis, and scientific communication.",
+            "columns": 2,
+            "cards": [
+                {
+                    "variant": "compact",
+                    "label": "Psychobiology",
+                    "title": "Behavior and brain",
+                    "description": "Develop a project linking exercise, behavior, cognition, sleep, or neural activity through the Graduate Program in Psychobiology.",
+                    "link": {
+                        "label": "Program details",
+                        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=367&lc=en_US"
+                    }
+                },
+                {
+                    "variant": "compact",
+                    "label": "Physiological Sciences",
+                    "title": "Mechanisms and function",
+                    "description": "Investigate exercise and physiological function through the Multicenter Graduate Program in Physiological Sciences.",
+                    "link": {
+                        "label": "Program details",
+                        "url": "https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=32254&lc=en_US"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "undergraduate",
+            "kicker": "Early research experience",
+            "title": "Undergraduate research",
+            "description": "Undergraduate students can take their first steps in research while contributing to active laboratory projects.",
+            "columns": 2,
+            "cards": [
+                {
+                    "variant": "compact",
+                    "label": "Scientific initiation",
+                    "title": "Join an active project",
+                    "description": "Learn how a research question becomes an experiment and gain supervised experience in literature review, laboratory routines, data organization, and analysis."
+                },
+                {
+                    "variant": "compact",
+                    "label": "Research training",
+                    "title": "Build practical skills",
+                    "description": "Develop a foundation in reproducible workflows, scientific programming, behavioral methods, electrophysiology, and research communication according to project needs."
+                }
+            ]
+        },
+        {
+            "id": "lab-access",
+            "kicker": "Shared infrastructure",
+            "title": "Equipment and research tools",
+            "description": "Researchers and partner groups may contact LaFiSE to discuss collaborative access, technical feasibility, training requirements, and scheduling.",
+            "columns": 3,
+            "cards": [
+                {
+                    "variant": "resource",
+                    "mark": "A",
+                    "title": "Multimodal treadmill",
+                    "description": "A research platform for controlled locomotion and behavioral paradigms, designed to support multimodal experimental protocols."
+                },
+                {
+                    "variant": "resource",
+                    "mark": "B",
+                    "title": "Electrophysiology workflows",
+                    "description": "Collaborative support for neural-signal experiments, from study planning and acquisition workflows to quality control and analysis."
+                },
+                {
+                    "variant": "resource",
+                    "mark": "C",
+                    "title": "Software and analysis",
+                    "description": "Open and reproducible tools for behavioral data, electrophysiological signals, artifact rejection, visualization, and research workflows."
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "kicker": "Start a conversation",
+        "title": "Tell us how you would like to work with LaFiSE.",
+        "description": "Introduce yourself, your background, the opportunity you are interested in, and the research question or resource you would like to explore.",
+        "link": {
+            "label": "Contact the laboratory",
+            "url": "mailto:lafiseufrn@gmail.com"
+        }
+    }
+}
