@@ -1,27 +1,27 @@
 [
     {
-        "name": "LafiseLab_Website",
+        "name": "LAFISE-Website",
         "description": "The official website for the Lafise Laboratory, showcasing research, publications, and software tools.",
         "status": "In Development",
-        "url": "https://github.com/lafise_ufrn/LafiseLab_Website"
+        "url": "https://github.com/lafise-ufrn/LAFISE-Website"
     },
     {
-        "name": "Cycle_by_Cycle",
+        "name": "Cycle-by-Cycle",
         "description": "Cycle-by-Cycle is a software tool designed to analyze and visualize data from exercise physiology experiments.",
         "status": "In Development",
-        "url": "https://github.com/lafise_ufrn/Cycle_by_Cycle"
+        "url": "https://github.com/isaac-diniiz/cycle-by-cycle"
     },
     {
         "name": "Gap_Rats",
         "description": "Software for behavioral analysis in a treadmill environment.",
         "status": "In Development",
-        "url": "https://github.com/lafise_ufrn/gap_rats"
+        "url": "https://github.com/lafise-ufrn/gap_rats"
     },
     {
         "name": "SPARQ",
         "description": "A code library for Signal Processing, Artifact Rejection and Quality-control.",
         "status": "In Development",
-        "url": "https://github.com/lafise_ufrn/SPARQ"
+        "url": "https://github.com/lafise-ufrn/SPARQ"
     }
 
 ]
